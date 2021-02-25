@@ -1,0 +1,2 @@
+# CpuMiner
+Cpu Easy Miner
